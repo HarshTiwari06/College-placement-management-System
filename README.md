@@ -207,10 +207,4 @@ The College Placement Management System helps streamline the campus placement pr
 
 # Author
 
-Tanisha Singh
-
----
-
-# GitHub Repository
-
-[https://github.com/tanii69/college-placement-management-system](https://github.com/tanii69/college-placement-management-system)
+Harsh Tiwari
